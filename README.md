@@ -12,14 +12,7 @@ In this case study, I aim to provide information relevant to the inquiries of th
 7. If RPPI intends to invest a maximum of Rp25 billion next week, leverage the data to recommend houses that have the potential to yield profits for the company.
 8. Uncovering Additional Valuable Information from the Data
 \
-**Process:**
-
-   Preprocessing\
-a. Checking the data type\
-b. Handling noise and outliers\
-c. Handling missing values\
-d. Removing data duplication\
-
+Codes are available [Codes](
 **Insight**
 1. The data held by PT Ray Pink Property Indonesia (RPPI) exhibits several shortcomings:\
    a. Missing Values:\
