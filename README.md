@@ -48,6 +48,17 @@ Despite these challenges, we believe that the existing variables are reasonably 
 5. Houses with the potential to generate profits for the company are those with large land and building areas but are priced relatively low. Thus, it is evident that the most recommended house for investment, with the potential to yield profits for the company, is located in the Cempaka Putih area, Central Jakarta. Details for other houses can be referenced in the table above.
 6. The city of Jakarta exhibits a tendency towards higher housing prices. The most expensive house in Jakarta is priced at 31,346,153.846153848 per square meter. This property features 4 bedrooms, 3 bathrooms, 1 garage, and 1 carport.
 
+## Acknowledgments
+
+I would like to express my gratitude to the following individuals for their valuable contributions and support throughout the development of this project:
+- Daniella Putri Shalomita 
+- Kayla Adzka Amanda 
+- Selvira Salsabila 
+- Yasmin Nashwa Alifya
+
+Their hard work and teamwork have not only made this project possible but have also created an environment of creativity and efficiency. I am truly grateful for the opportunity to work alongside such talented individuals.
+
+
 
 
 
