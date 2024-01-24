@@ -12,7 +12,7 @@ In this case study, I aim to provide information relevant to the inquiries of th
 7. If RPPI intends to invest a maximum of Rp25 billion next week, leverage the data to recommend houses that have the potential to yield profits for the company.
 8. Uncovering Additional Valuable Information from the Data
 \
-Codes are available [Codes](https://github.com/ChatleaShakira/Property-Business-Decision-Mining/blob/e0e5508f902e3e7ec1824e93e61e96a3a0e73555/Tugas_Kelompok_Data_Mining.ipynb)\
+Codes are available : [Codes](https://github.com/ChatleaShakira/Property-Business-Decision-Mining/blob/e0e5508f902e3e7ec1824e93e61e96a3a0e73555/Tugas_Kelompok_Data_Mining.ipynb)
 
 **Insight**
 1. The data held by PT Ray Pink Property Indonesia (RPPI) exhibits several shortcomings:\
@@ -30,7 +30,7 @@ Codes are available [Codes](https://github.com/ChatleaShakira/Property-Business-
       The variables LT, LB, KT, and KM, which should have integer data types, are currently classified as object data types.\
    e. Inconsistency in Variable Values:\
       Inconsistencies are observed in the 'harga' variable, where values are sometimes prefixed with "RP," "Rp," or directly stated.\
-Despite these challenges, we believe that the existing variables are reasonably adequate for representing the characteristics of houses in each region. Addressing the data quality issues outlined above will be crucial for enhancing the reliability and usability of the dataset.\
+Despite these challenges, we believe that the existing variables are reasonably adequate for representing the characteristics of houses in each region. Addressing the data quality issues outlined above will be crucial for enhancing the reliability and usability of the dataset.
 2. The region with generally lower housing prices is Bekasi. Conversely, the region with generally higher housing prices is Jakarta. This is evident in the box plot above, which illustrates a diverse distribution of house prices in Jakarta, surpassing the average prices observed in other regions.
 3. We recommend to PT Ray Pink Property Indonesia (RPPI) to consider opening a branch in Bogor City. This recommendation is based on the fact that Bogor City has the highest number of sales advertisements, indicating a substantial market potential in the city. As an alternative suggestion, we recommend PT Ray Pink Property Indonesia (RPPI) to explore the option of opening a branch in Medan City. This recommendation is supported by the observation that the largest total sales are recorded in Medan City, implying a potential for high revenue in this location.
 4. Characteristics of Houses that Are Likely to be Listed for Sale:\
