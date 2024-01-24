@@ -14,27 +14,27 @@ In this case study, I aim to provide information relevant to the inquiries of th
 \
 **Process:**
 
-1. Preprocessing
-a. Checking the data type
-b. Handling noise and outliers
-c. Handling missing values
-d. Removing data duplication
+1. Preprocessing\
+a. Checking the data type\
+b. Handling noise and outliers\
+c. Handling missing values\
+d. Removing data duplication\
 
 **Insight**
-1. The data held by PT Ray Pink Property Indonesia (RPPI) exhibits several shortcomings:
-a. Missing Values:
-All variables in the dataset contain missing values, with the highest counts as follows:
-"hadap" variable: 1624 missing data
-"garasi" variable: 1049 missing data
-"carport" variable: 545 missing data
-"listrik" variable: 225 missing data
-b. Duplicate Data:
-There are 14 instances of duplicate data.
-c. Outliers:
-Numerous outliers are present in the dataset.
-d. Inconsistent Data Types:
-The variables LT, LB, KT, and KM, which should have integer data types, are currently classified as object data types.
-e. Inconsistency in Variable Values:
-Inconsistencies are observed in the 'harga' variable, where values are sometimes prefixed with "RP," "Rp," or directly stated.
-Despite these challenges, we believe that the existing variables are reasonably adequate for representing the characteristics of houses in each region. Addressing the data quality issues outlined above will be crucial for enhancing the reliability and usability of the dataset.
+1. The data held by PT Ray Pink Property Indonesia (RPPI) exhibits several shortcomings:\
+a. Missing Values:\
+All variables in the dataset contain missing values, with the highest counts as follows:\
+"hadap" variable: 1624 missing data\
+"garasi" variable: 1049 missing data\
+"carport" variable: 545 missing data\
+"listrik" variable: 225 missing data\
+b. Duplicate Data:\
+There are 14 instances of duplicate data.\
+c. Outliers:\
+Numerous outliers are present in the dataset.\
+d. Inconsistent Data Types:\
+The variables LT, LB, KT, and KM, which should have integer data types, are currently classified as object data types.\
+e. Inconsistency in Variable Values:\
+Inconsistencies are observed in the 'harga' variable, where values are sometimes prefixed with "RP," "Rp," or directly stated.\
+Despite these challenges, we believe that the existing variables are reasonably adequate for representing the characteristics of houses in each region. Addressing the data quality issues outlined above will be crucial for enhancing the reliability and usability of the dataset.\
    
